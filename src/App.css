@@ -1,0 +1,19 @@
+.container {
+  margin-top: 20px;
+}
+
+body {
+  background-color: #f5f5f5;
+}
+
+.step-label {
+  cursor: pointer !important;
+}
+
+.datepicker {
+  width: 100%;
+}
+
+#map { 
+  height: 180px; 
+}
